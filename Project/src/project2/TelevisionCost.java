@@ -1,3 +1,7 @@
+// Roshinee
+// BC263927
+// Lab 2
+
 package project2;
 import java.util.Scanner;
 public class TelevisionCost {
